@@ -1,0 +1,45 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: black;
+}
+h1 {
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+div {
+    background-color: white;
+    height: 650px;
+    border-radius: 8px;
+    width: 600px;
+    margin-left: 700px;
+    margin-top: 100px;
+}
+form {
+    padding: 0px 30px 0px 30px;
+}
+label {
+    font-size: 25px;
+    font-weight: 500;
+}
+input {
+    width: 530px;
+    height: 40px;
+    border-radius: 4px;
+}
+.batch {
+    padding-top: 50px;
+}
+button {
+    background-color: black;
+    color: white;
+    padding: 0px 210px 0px 210px;
+    font-size: 25px;
+    height: 50px;
+    margin-left: 15px;
+    border-radius: 5px;
+}
